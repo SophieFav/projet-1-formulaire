@@ -10,8 +10,8 @@
     <!--Import Google Icon Font-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!--Import materialize.css-->
-    <link rel="stylesheet" href="css/materialize.css">
-    <link rel="stylesheet" href="css/style2.css">
+    <link rel="stylesheet" href="materialize.css">
+    <link rel="stylesheet" href="style2.css">
 
 </head>
 
@@ -115,9 +115,9 @@
 
 
     <!--JavaScript at end of body for optimized loading-->µ
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/materialize.js"></script>
-    <script src="js/script.js"></script>
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="materialize.js"></script>
+    <script src="script.js"></script>
 </body>
 
 </html>
